@@ -13,6 +13,8 @@ c04269e155e7f91da65ca8303fd0497678528f4c8a21c072eda57e0ad2272ad9  dicc
 ## 20 combinaciones diferentes para l33t sp33ch
 ## 'pines' comunes en inicio, medio y fin
 ## diversidad en las combinaciones, alta gama de posibles resultados
+## calcula una estimación de tamaño total de fichero y genera un temporizador de creación
+## multi-threading para una generación rápida
 ## estructura hash con encadenamiento asegurando que no haya colisiones problemáticas
 ### combinaciones reales
 
