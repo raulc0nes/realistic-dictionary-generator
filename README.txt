@@ -18,5 +18,4 @@ c04269e155e7f91da65ca8303fd0497678528f4c8a21c072eda57e0ad2272ad9  dicc
 ## estructura hash con encadenamiento asegurando que no haya colisiones problemáticas
 ### combinaciones reales
 
-@raulc0nes
-# OpenAI
+#coded through OpenAI by @raulc0nes
